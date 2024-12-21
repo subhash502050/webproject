@@ -5,7 +5,7 @@ func main() {
 
 	for i := 0; i <= 9; {
 		i++
-
 		println(i)
+		println("Hello go")
 	}
 }
